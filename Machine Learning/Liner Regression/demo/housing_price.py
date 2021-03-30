@@ -7,11 +7,13 @@ import numpy as np
 import pandas as pd
 
 #设定随机数种子
+
 np.random.seed(36)
 
 #使用matplotlib库画图
 import matplotlib
 import seaborn
+
 import matplotlib.pyplot as plot
 
 from sklearn import datasets
